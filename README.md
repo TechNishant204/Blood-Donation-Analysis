@@ -19,6 +19,7 @@ Amazingly, only around 5% of the eligible donor population actually donate (Lind
 To build a model which can identify who is likely to donate blood again.
 
 # Models implemented:
+
 1. Linear Discriminant Analysis
 2. Logistic Regression
 3. Suport Vector Machine
